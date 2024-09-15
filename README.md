@@ -1,4 +1,5 @@
 Language Translation Tool
+
 Welcome to the Language Translation Tool! This project is built using Flask as the backend framework and HTML, CSS, and JavaScript for the frontend. The tool allows users to input text, select a language, and receive the translated text as output.
 
 Features
