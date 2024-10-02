@@ -51,41 +51,48 @@ Basic knowledge of Python, Flask, and web development.
 Steps to Install and Run
 Clone the repository:
 
-bash
+```bash
 
 git clone https://github.com/Ujwal-23/CodeAlpha_Translation_tool.git
 cd CodeAlpha_Translation_tool
+```
 Create a virtual environment:
 
 For Windows:
 
-bash
+```bash
 
 python -m venv venv
+```
 For macOS/Linux:
 
-bash
+```bash
 
 python3 -m venv venv
+```
 Activate the virtual environment:
 
 For Windows:
 
-bash
+```bash
 venv\Scripts\activate
+```
 For macOS/Linux:
 
-bash
+```bash
 source venv/bin/activate
+```
 Install dependencies:
 
-bash
+```bash
 pip install -r requirements.txt
+```
 Run the Flask application:
 
-bash
+```bash
 flask run
 The server will start at http://127.0.0.1:5000/.
+```
 
 # Usage
 - Navigate to http://127.0.0.1:5000/ in your browser.
